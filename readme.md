@@ -1,4 +1,4 @@
-## Whitelist Bot
+## Whitelist Bot V2
 
 This is a simple server whitelist bot using Python 3.6.6
 
